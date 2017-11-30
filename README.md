@@ -2,7 +2,7 @@
 A demonstration using database technology to implement a Tetris like game as silly as that may sound
 
 
-This Tetris like game is implemented in Python 2.7 and requires both **Cocos2D** and **sqlite3**. You can get **Cocos2D** and all of its dependencies using `pip install cocos2d`.  You need to have **sqlite** installed for your platform: it comes standard with most Linux distributions and Mac OS. There are various free installers for Windows. The python **sqlite3** binding comes standard with most python installations.
+This Tetris like game is implemented in Python 2.7 and requires both **Cocos2D** and **sqlite3**. You can get **Cocos2D** and all of its dependencies using `pip install cocos2d`.  (See also https://github.com/los-cocos/cocos) You need to have **sqlite** installed for your platform: it comes standard with most Linux distributions and Mac OS. There are various free installers for Windows. The python **sqlite3** binding comes standard with most python installations.
 
 
 ## Why implement a Tetris like game using SQL quires and a database?*

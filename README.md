@@ -22,3 +22,7 @@ This Tetris like game is implemented in Python 2.7 and requires both **Cocos2D**
 ## How to play the game?  
 This repository contains the final report that provides details about the database design and implementation.
 The **Implementation** directory contains the complete python 2.7 source code and a nearly empty database. In a shell, cd into the Implementation directory and run via `> python Game.py`.
+
+![Image of Introduction](http://cdn.rawgit.com/erikbuck/DBTetris/master/Introduction.png)
+![Image of Model](http://cdn.rawgit.com/erikbuck/DBTetris/master/Model.png)
+![Image of ModelUML](http://cdn.rawgit.com/erikbuck/DBTetris/master/ModelUML.png)
